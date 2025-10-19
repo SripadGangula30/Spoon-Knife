@@ -1,2 +1,1 @@
-print("THis is a combined version after resolving the conflict")
-
+print("Hello from master branch on GitHub!")
